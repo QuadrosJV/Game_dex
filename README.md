@@ -22,4 +22,6 @@ Rafael Ribeiro dos Santos
 
 Capturas de tela:
 Lista de jogos
+![Lista de jogos](screenshots/lista-jogos.jpg)
 Detalhes do jogo
+![Detalhes do jogo](screenshots/detalhe-jogos.jpg)
