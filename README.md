@@ -25,3 +25,6 @@ Lista de jogos
 ![Lista de jogos](screenshots/lista-jogos.jpg)
 Detalhes do jogo
 ![Detalhes do jogo](screenshots/detalhe-jogos.jpg)
+
+Videos explicativos:
+https://drive.google.com/drive/folders/1gyZ9fcNUIAADMUOQIKMKYPwKaJlF2Ev4?usp=sharing
